@@ -40,9 +40,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "hamish.crichton@cantab.net"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  #facebook: deanattali
+  github: hamishcrichton
+  #twitter: daattali
 #  reddit: yourname
   linkedin: hamish-crichton-341791177
 #  xing: yourname
